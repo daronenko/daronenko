@@ -1,7 +1,5 @@
 ![daronenko](https://komarev.com/ghpvc/?username=daronenko&color=blue&abbreviated=true&style=flat)
 
-<br>
-
 * 🚀 Junior Go Backend Developer
 
 * 📚 Student at [IU6 Computer Systems and Networks](https://mirror.bmstu.ru/chair/komputernye-sistemy-i-seti), Bauman Moscow State Technical University
